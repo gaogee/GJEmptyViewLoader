@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'GJEmptyViewLoader_Example' do
+  pod 'GJEmptyViewLoader', :path => '../'
+
+  target 'GJEmptyViewLoader_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

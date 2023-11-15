@@ -1,0 +1,16 @@
+PODS:
+  - GJEmptyViewLoader (0.1.0)
+
+DEPENDENCIES:
+  - GJEmptyViewLoader (from `../`)
+
+EXTERNAL SOURCES:
+  GJEmptyViewLoader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GJEmptyViewLoader: e69a48df658579047062bc4193d12ff6b91d9b82
+
+PODFILE CHECKSUM: 5d361ef63aa2c8ce310145dfc1646fb85a9a422d
+
+COCOAPODS: 1.14.2
